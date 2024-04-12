@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/artelea/static/css/main.ee95ab63.css",
+    "main.js": "/artelea/static/js/main.89a51c38.js",
+    "static/media/footer.jpg": "/artelea/static/media/footer.7ac9f80b55e3dde3fc58.jpg",
+    "static/media/chispero.jpg": "/artelea/static/media/chispero.db33168f55c5bd3433c8.jpg",
+    "static/media/rejas.jpg": "/artelea/static/media/rejas.216088de3b316580060b.jpg",
+    "static/media/logo.png": "/artelea/static/media/logo.4cc7dc00dca1d03e5b8a.png",
+    "static/media/mueble.jpg": "/artelea/static/media/mueble.8143eb4567978cb7217b.jpg",
+    "static/media/parrilla.jpg": "/artelea/static/media/parrilla.bc32098054c014b769e6.jpg",
+    "static/media/header.jpg": "/artelea/static/media/header.dc9aeaf953abc2131be3.jpg",
+    "static/media/banner.jpg": "/artelea/static/media/banner.c0c46c4becfd5e8d84eb.jpg",
+    "static/media/service.svg": "/artelea/static/media/service.f009268c8114e920884bc24087ae5975.svg",
+    "static/media/who.svg": "/artelea/static/media/who.cd3014eb24e24c6eac0c81c84f49be39.svg",
+    "index.html": "/artelea/index.html",
+    "main.ee95ab63.css.map": "/artelea/static/css/main.ee95ab63.css.map",
+    "main.89a51c38.js.map": "/artelea/static/js/main.89a51c38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee95ab63.css",
+    "static/js/main.89a51c38.js"
+  ]
+}
